@@ -3,14 +3,13 @@
 Este es un proyecto de práctica de maquetación avanzada realizado como parte de mi formación en **Conckerblock**. El objetivo fue crear una interfaz de Marketplace de NFTs moderna, utilizando una arquitectura de diseño limpia y eficiente.
 
 ## 📸 Preview
-![Captura del Proyecto](./public/screenshot.png) 
-*(Asegúrate de que tu imagen se llame screenshot.png y esté en la carpeta public)*
+![Captura del Proyecto](./public/Preview.png) 
+
 
 ## 🛠️ Tecnologías y Desafíos
 * **HTML5 Semántico:** Estructura optimizada para accesibilidad.
 * **CSS Grid Layout:** Implementación de un sistema de rejilla de dos columnas (`.izq` y `.der`) con áreas personalizadas.
 * **Posicionamiento Absoluto:** Manejo de capas (`z-index`) para crear efectos visuales con el título vertical y el lienzo de arte.
-* **Responsive Design:** Preparado para adaptarse a pantallas de alta resolución (1920px).
 
 ## 🛡️ Enfoque en Ciberseguridad
 Como estudiante interesado en la **Ciberseguridad**, este proyecto sigue buenas prácticas de:
