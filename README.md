@@ -17,6 +17,23 @@ Como estudiante interesado en la **Ciberseguridad**, este proyecto sigue buenas 
 2. **Optimización de activos:** Uso de formatos SVG para evitar la carga de scripts maliciosos ocultos en metadatos de imágenes pesadas.
 3. **Mantenimiento:** Código comentado y estructurado para facilitar auditorías visuales.
 
+🎯 Objetivos Técnicos
+
+**Implementar layout** dividido en dos columnas principales.
+**Aplicar CSS Grid** para estructura base.
+**Utilizar Flexbox** para alineaciones internas.
+**Manejar superposición** de elementos con position absolute.
+Trabajar con **pseudo-elementos** decorativos (::after).
+**Controlar jerarquía** visual mediante tipografía y contraste.
+
+📈 Aprendizajes
+
+Control avanzado de layout con Grid.
+Gestión de stacking context.
+Manejo de overflow en layouts complejos.
+Organización visual escalable.
+
+
 ## 🚗 Otros Proyectos
 Actualmente desarrollando **Movilidad Sur**, un servicio de traslados personalizado para la Costa de Oro (Solymar, Lagomar, El Pinar), especializado en la atención de adultos mayores con un vehículo Onix 2017.
 
