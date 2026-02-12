@@ -5,6 +5,10 @@ Este es un proyecto de práctica de maquetación avanzada realizado como parte d
 ## 📸 Preview
 ![Captura del Proyecto](./public/img/Preview.png) 
 
+## 🚀 Live Demo
+
+[Ver proyecto online](https://nft-marketplace-o6bk.vercel.app)
+
 
 ## 🛠️ Tecnologías y Desafíos
 * **HTML5 Semántico:** Estructura optimizada para accesibilidad.
